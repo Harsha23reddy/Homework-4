@@ -1,6 +1,7 @@
 # Homework-4
 ## Student Information
 **Name:**  Boreddy Harshavardhan Reddy
+
 **Course:** Natural Language Processing  
 
 ---
@@ -11,7 +12,7 @@ All code is written in **PyTorch** and designed to run smoothly on **Google Cola
 
 ---
 
-## 📌 Q1 – Character-Level RNN Language Model
+##  Q1 – Character-Level RNN Language Model
 In this task, a character-level text generator is built using an LSTM.  
 Key features:
 - Custom toy dataset + larger 50–200 KB text file  
@@ -25,7 +26,7 @@ Key features:
 
 ---
 
-## 📌 Q2 – Mini Transformer Encoder
+##  Q2 – Mini Transformer Encoder
 A simplified Transformer Encoder was implemented from scratch, including:
 - Tokenization & learned embeddings  
 - Sinusoidal positional encodings  
@@ -39,7 +40,7 @@ A simplified Transformer Encoder was implemented from scratch, including:
 
 ---
 
-## 📌 Q3 – Scaled Dot-Product Attention
+##  Q3 – Scaled Dot-Product Attention
 Implements the core attention function:
 Includes:
 - Random Q, K, V testing  
